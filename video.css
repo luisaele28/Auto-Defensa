@@ -1,0 +1,13 @@
+.boton2{
+        padding: 10px;
+        background-color: black;
+        color: white;
+        text-decoration: none;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+
+.boton2:hover{
+        background-color: /*#ADD8E6;*/#256d7b;
+        cursor: pointer;
+}
