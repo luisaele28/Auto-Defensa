@@ -111,10 +111,45 @@ h4{
 
 .parrafo3{
     font-size: 50px;
-    margin: 20px;
 }
 
 .logo{
     width: 100px;
     border-radius: 20px;
+}
+
+@media screen and (max-width: 800px){
+    body{
+      background-image: none;
+      width: 100%;
+    }
+
+    h1{
+        font-size: 30px;
+    }
+
+    footer{
+        font-size: 15px;
+    }
+
+    h4{
+        font-size: 40px;
+    }
+
+    li{
+        font-size: 30px;
+    }
+
+    h3{
+        font-size: 30px;
+    }
+    
+    .parrafo2{
+        font-size: 30px;
+    }
+
+    .parrafo3{
+        font-size: 25px;
+        margin: 0;
+    }
 }
