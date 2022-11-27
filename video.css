@@ -11,3 +11,10 @@
         background-color: /*#ADD8E6;*/#256d7b;
         cursor: pointer;
 }
+
+@media screen and (max-width: 700px){
+    .video{
+        width: 60%;
+        height: auto;
+    }
+}
