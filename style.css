@@ -123,8 +123,9 @@ h5{
 
 @media screen and (max-width: 700px){
     body{
-      background-image: none;
-      background-color: black;
+      background-image: url(./img/imagen.jpg);;
+      /*background-color: black;*/
+      background-position: center;
       width: 100%;
     }
 
