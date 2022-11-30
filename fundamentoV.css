@@ -6,7 +6,7 @@
   }
 
 body{
-    background-image: url(./img/argenis3.jpg);
+    background-image: url(./img/entre2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     backdrop-filter: blur(3px);
@@ -36,7 +36,7 @@ h4{
 
 .parrafo2{
     font-size: 40px;
-    margin: 20px 220px;
+    /*margin: 20px 220px;*/
     color: yellow;
     bottom: -90px;
     position: relative;
@@ -46,10 +46,10 @@ h4{
 .capa2{
     background-color: black;
     opacity: 0.4;
-    width: 600px;
-    height: 420px;
+    width: 920px;
+    height: 230px;
     border-radius: 30px;
-    margin: 0 380px;
+    margin: 0 210px;
   }
 
   @media screen and (max-width: 800px){

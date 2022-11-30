@@ -6,7 +6,7 @@
   }
 
 body{
-    background-image: url(./img/argenis3.jpg);
+    background-image: url(./img/argenis2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     backdrop-filter: blur(6px);
@@ -42,14 +42,14 @@ h4{
     position: relative;
 }
 
-/*.capa{
+.capa{
     background-color: black;
-    opacity: 0.4;
+    opacity: 0.3;
     width: 600px;
     height: 420px;
     border-radius: 30px;
     margin: 0 100px;
-  }*/
+  }
 
   @media screen and (max-width: 800px){
     body{
