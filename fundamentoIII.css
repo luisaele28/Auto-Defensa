@@ -59,6 +59,10 @@ h3{
     margin: 0;
 }
 
+a{
+    text-decoration: none;
+}
+
 @media screen and (max-width: 800px){
     body{
       background-image: url(./img/entre1.jpg);

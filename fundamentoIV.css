@@ -53,6 +53,10 @@ h4{
     margin: 0 380px;
   }
 
+  a{
+    text-decoration: none;
+  }
+  
   @media screen and (max-width: 800px){
     body{
       background-image: url(./img/argenis4.jpg);
