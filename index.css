@@ -46,3 +46,34 @@ footer{
     float: right;
     margin: 0;
 }
+
+@media screen and (max-width: 800px){
+  body{
+    background-image: url(./img/portada.jpg);
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    backdrop-filter: none;
+  }   
+
+  .logo{
+    width: 40px;
+    margin: 0;
+    border-radius: 10px;
+}
+
+h1{
+    font-size: 30px;
+    bottom: -90px;
+    position: relative;
+}
+
+footer{
+    text-align: center;
+    display: block;
+    font-size: 15px;
+    color: yellow;
+    bottom: -140px;
+    position: relative;
+  }
+}

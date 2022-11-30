@@ -67,3 +67,68 @@ h5{
     border-radius: 30px;
     margin: 0 380px;
   }
+
+  @media screen and (max-width: 800px){
+    body{
+      background-image: url(./img/argenis4.jpg);
+      width: 100%;
+      background-position: center;
+      height: auto;
+      background-repeat: no-repeat;
+      backdrop-filter: none;
+    }   
+  
+    .logo{
+      width: 35px;
+      margin: 0;
+      border-radius: 10px;
+  }
+  
+  li{
+    font-size: 13px;
+    margin: 0 0 15px;
+    color: yellow;
+    bottom: -70px;
+    position: relative;
+  }
+
+  h4{
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    color: yellow;
+    bottom: -5px;
+    position: relative;
+}
+  
+.capa{
+        background-color: black;
+        opacity: 0.4;
+        width: 300px;
+        height: 230px;
+        border-radius: 30px;
+        margin: 0;
+      }  
+
+h3{
+        font-size: 13px;
+        margin: 35px;
+        color: yellow;
+        bottom: -40px;
+        position: relative;
+    }
+    
+h5{
+        font-size: 20px;
+        margin: 0 50px 0;
+        color: yellow;
+        bottom: -60px;
+        position: relative;
+    }
+    .logo2{
+        float: right;
+        margin: 0;
+    }
+
+}
+
