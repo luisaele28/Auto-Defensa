@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;1,700&display=swap');
+
+* {
+    font-family: 'Source Code Pro' monospace;
+    --fonts: 'Josefin Sans', sans-serif;
+  }
+
+body{
+    background-image: url(./img/portada.jpg);
+    background-size: cover;
+    backdrop-filter: blur(3px);
+    background-repeat: no-repeat;
+}
+
+.logo{
+    width: 90px;
+    border-radius: 20px;
+    float: left;
+    margin: 0;
+}
+
+h1{
+    font-size: 70px;
+    text-align: center;
+    margin: 20px;
+    color: yellow;
+    bottom: -250px;
+    position: relative;
+}
+
+footer{
+    text-align: center;
+    display: block;
+    font-size: 25px;
+    color: yellow;
+    bottom: -440px;
+    position: relative;
+  }
+
+  .capa{
+    background-color: black;
+    opacity: 0.6;
+  }
+
+.logo2{
+    float: right;
+    margin: 0;
+}
