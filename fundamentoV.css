@@ -69,10 +69,14 @@ h4{
   }
   
   
-.capa{
-        background-color: transparent;
-      } 
-
+  .capa2{
+    background-color: black;
+    opacity: 0.4;
+    width: 370px;
+    height: 200px;
+    border-radius: 30px;
+    margin: 0 0 50px;
+  }
 
 h4{
     font-size: 20px;
@@ -85,11 +89,11 @@ h4{
 
 .parrafo2{
     font-size: 15px;
-    margin: 0;
+    margin: none;
     color: yellow;
-    bottom: -10px;
-    position: relative;
-    align-items: center;
+    bottom: none;
+    position: none;
+    justify-content: left;
 }
 
 }

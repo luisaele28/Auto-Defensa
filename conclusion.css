@@ -62,22 +62,22 @@ body{
   }
   
   
-.capa{
-        background-color: black;
-        opacity: 0.4;
-        width: 250px;
-        height: 200px;
-        border-radius: 30px;
-        margin: 0;
-      } 
+  .capa2{
+    background-color: black;
+    opacity: 0.4;
+    width: 370px;
+    height: 200px;
+    border-radius: 30px;
+    margin: 0 0 170px;
+  }
 
-.parrafo2{
+  .parrafo2{
     font-size: 15px;
-    margin: 20px;
+    margin: none;
     color: yellow;
-    bottom: -90px;
-    position: relative;
-    align-items: center;
+    bottom: none;
+    position: none;
+    justify-content: left;
 }
 
 }

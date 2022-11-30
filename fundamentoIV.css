@@ -78,22 +78,21 @@ h4{
     position: relative;
     }
 
-  .parrafo2{
-    font-size: 10px;
-    margin: 0;
-    color: yellow;
-    bottom: -20px;
-    position: relative;
+    .capa2{
+        background-color: black;
+        opacity: 0.4;
+        width: 370px;
+        height: 200px;
+        border-radius: 30px;
+        margin: 0 0 170px;
+      }
+    
+      .parrafo2{
+        font-size: 15px;
+        margin: none;
+        color: yellow;
+        bottom: none;
+        position: none;
+        justify-content: left;
+    } 
 }
-  
-  
-.capa{
-    background-color: black;
-    opacity: 0.4;
-    width: 250px;
-    height: 200px;
-    border-radius: 30px;
-    margin: 0;
-  } 
-      
-} 
