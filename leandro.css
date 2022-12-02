@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;1,700&display=swap');
+
+* {
+    font-family: 'Source Code Pro' monospace;
+    --fonts: 'Josefin Sans', sans-serif;
+  }
+
+body{
+    background-image: url(./img/leandro2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(3px);
+}
+
+.logo{
+    width: 90px;
+    border-radius: 20px;
+    float: left;
+    margin: 0;
+    cursor: pointer;
+}
+
+.logo2{
+    float: right;
+    margin: 0;
+}
+
+.parrafo2{
+    font-size: 45px;
+    margin: 0;
+    color: yellow;
+    bottom: -60px;
+    position: relative;
+    align-items: center;
+}
+
+.capa2{
+    background-color: black;
+    opacity: 0.4;
+    width: 800px;
+    height: 350px;
+    border-radius: 30px;
+    bottom: -100px;
+    margin: 0 300px;
+    position: relative;
+  }
+
+  h4{
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    color: yellow;
+    bottom: -20px;
+    position: relative;
+}
+
+a{
+    text-decoration: none;
+}
+
+  @media screen and (max-width: 800px){
+    body{
+      background-image: url(./img/leandro2.jpg);
+      width: 100%;
+      background-position: center;
+      background-repeat: no-repeat;
+      backdrop-filter: none;
+      background-position: center;
+    }   
+  
+    .logo{
+      width: 30px;
+      margin: 0;
+      border-radius: 10px;
+  }
+  
+  
+  .capa2{
+    background-color: black;
+    opacity: 0.4;
+    width: 370px;
+    height: 200px;
+    border-radius: 30px;
+    margin: 0 0 170px;
+  }
+
+  .parrafo2{
+    font-size: 15px;
+    margin: none;
+    color: yellow;
+    bottom: none;
+    position: none;
+    justify-content: left;
+}
+
+h4{
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    color: yellow;
+    bottom: -5px;
+    position: relative;
+}
+
+  }
+
+
