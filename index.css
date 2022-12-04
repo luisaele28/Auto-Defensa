@@ -52,6 +52,7 @@ a{
 }
 
 @media screen and (max-width: 800px){
+  
   body{
     background-image: url(./img/portada.jpg);
     width: 100%;
