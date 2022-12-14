@@ -6,10 +6,11 @@
   }
 
 body{
-    background-image: url(./img/entre1.jpg);
+    background-image: url(./img/DSC_1350.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    backdrop-filter: blur(4px);
+    backdrop-filter: blur(3px);
+    background-position: center;
 }
 
 li{
@@ -65,7 +66,7 @@ a{
 
 @media screen and (max-width: 800px){
     body{
-      background-image: url(./img/entre1.jpg);
+      background-image: url(./img/DSC_1350.jpg);
       width: 100%;
       background-position: center;
       height: auto;

@@ -6,11 +6,11 @@
   }
 
 body{
-    background-image: url(./img/entre3.jpg);
+    background-image: url(./img/DSC_1311.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    backdrop-filter: blur(4px);
+    backdrop-filter: blur(3px);
 }
 
 .logo{
@@ -73,7 +73,7 @@ h5{
 
   @media screen and (max-width: 800px){
     body{
-      background-image: url(./img/entre3.jpg);
+      background-image: url(./img/DSC_1311.jpg);
       width: 100%;
       background-position: center;
       height: auto;
