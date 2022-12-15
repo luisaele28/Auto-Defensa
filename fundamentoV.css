@@ -9,7 +9,6 @@ body{
     background-image: url(./img/DSC_1317.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    backdrop-filter: blur(3px);
 }
 
 .logo{
@@ -45,7 +44,7 @@ h4{
 
 .capa2{
     background-color: black;
-    opacity: 0.4;
+    opacity: 0.70;
     width: 920px;
     height: 230px;
     border-radius: 30px;

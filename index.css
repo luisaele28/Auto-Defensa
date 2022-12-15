@@ -8,7 +8,6 @@
 body{
     background-image: url(./img/arge2.jpg);
     background-size: cover;
-    backdrop-filter: blur(1px);
     background-repeat: no-repeat;
 }
 

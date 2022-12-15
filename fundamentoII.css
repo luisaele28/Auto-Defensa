@@ -9,7 +9,6 @@ body{
     background-image: url(./img/DSC_1604.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    backdrop-filter: blur(3px);
     background-position: center;
 }
 
@@ -45,7 +44,7 @@ h4{
 
 .capa{
     background-color: black;
-    opacity: 0.3;
+    opacity: 0.70;
     width: 600px;
     height: 420px;
     border-radius: 30px;

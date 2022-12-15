@@ -9,7 +9,6 @@ body{
     background-image: url(./img/arge1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    backdrop-filter: blur(3px);
 }
 
 .logo{
@@ -44,7 +43,7 @@ li{
 
 .capa{
     background-color: black;
-    opacity: 0.4;
+    opacity: 0.70;
     width: 600px;
     height: 500px;
     border-radius: 30px;

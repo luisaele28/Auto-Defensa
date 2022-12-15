@@ -10,7 +10,6 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    backdrop-filter: blur(3px);
 }
 
 .logo{
@@ -60,7 +59,7 @@ h5{
 
 .capa{
     background-color: black;
-    opacity: 0.4;
+    opacity: 0.70;
     width: 630px;
     height: 420px;
     border-radius: 30px;
